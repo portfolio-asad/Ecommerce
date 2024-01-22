@@ -1,0 +1,88 @@
+header{
+    height: auto;
+}
+header .hero{
+    height: calc(auto - 90px);
+}
+header .hero .container .bg_img{
+    position: relative;
+}
+header .hero .container .details{
+    position: absolute;
+    top: 18%;
+    left: 2%;
+}
+section.selling .container .row .box{
+    position: relative;
+}
+section.selling .container .row .box .details{
+    position: absolute;
+    top: 40%;
+    left: 7%;
+}
+section.selling .container hr{
+    border: 2px solid;
+}
+section.selling .container .row .items{
+    position: relative;
+}
+section.selling .container .row .items .label{
+    position: absolute;
+    top: 4%;
+    left: 6%;
+}
+section.selling .container .row .items .label-2{
+    position: absolute;
+    top: 4%;
+    right: 6%;
+}
+section.selling .container .row .items .sale{
+    position: relative;
+
+}
+section.selling .container .row .items .sale span{
+    position: absolute;
+    top: 30%;
+    left: 18%;
+}
+section.product .container .collection{
+    position: relative;
+}
+section.product .container .details{
+    position: absolute;
+    top: 18%;
+    right: 9.5%;
+}
+section.product .container hr{
+    border: 2px solid;
+    width: 76%;
+}
+section.product .container .row .items{
+    position: relative;
+}
+section.product .container .row .items .label{
+    position: absolute;
+    top: 4%;
+    left: 6%;
+}
+section.product .container .row .items .label-2{
+    position: absolute;
+    top: 4%;
+    right: 6%;
+}
+section.product .container .row .items .sale{
+    position: relative;
+
+}
+section.product .container .row .items .sale span{
+    position: absolute;
+    top: 30%;
+    left: 18%;
+}
+section.blog .container span hr{
+    border: 2px solid;
+    width: 89%;
+}
+section.blog .container hr{
+    border: 2px solid;
+}
