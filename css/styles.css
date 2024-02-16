@@ -7,6 +7,11 @@ header .hero{
 header .hero .container .bg_img{
     position: relative;
 }
+header .hero .container .bg_img{
+    background-image: url(/imgs/slider1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 header .hero .container .details{
     position: absolute;
     top: 18%;
@@ -47,6 +52,11 @@ section.selling .container .row .items .sale span{
 }
 section.product .container .collection{
     position: relative;
+}
+section.product .container .collection{
+    background-image: url(/imgs/img-middle-t904.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 section.product .container .details{
     position: absolute;
