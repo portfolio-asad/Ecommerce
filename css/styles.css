@@ -9,8 +9,7 @@ header .hero .container .bg_img{
 }
 header .hero .container .bg_img{
     background-image: url(/imgs/slider1.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
+    
 }
 header .hero .container .details{
     position: absolute;
